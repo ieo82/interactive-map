@@ -3,5 +3,5 @@ pandas
 geopandas
 folium
 shapely
-pyproj
-xyzservices
+branca
+streamlit-folium
